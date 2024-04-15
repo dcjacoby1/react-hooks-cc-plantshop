@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "aaa",
+      "image": "https://sciencenotes.org/wp-content/uploads/2023/05/Labeled-Plant-Cell-Diagram.png",
+      "price": "12",
+      "id": 8
     }
   ]
 }
